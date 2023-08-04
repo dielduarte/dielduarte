@@ -1,5 +1,4 @@
 
-<img src="https://dielduarte.github.io/blog/images/avatar.png" alt="my avatar" />
 <h3>Hi there 👋</h3>
 
 I'm Diel, a Brazilian Software engineer
