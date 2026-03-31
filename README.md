@@ -3,5 +3,5 @@
 
 I'm Diel, a Brazilian Software engineer
 
-- 🔭  I’m currently working on a [Janus Doc](https://github.com/dielduarte/janusdoc)
+- 🔭  I’m currently working on [Janus Doc](https://github.com/dielduarte/janusdoc)
 - 💬  Also writing about tech on my personal [blog](https://dielduarte.dev)
